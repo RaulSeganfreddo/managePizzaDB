@@ -26,3 +26,5 @@ For the ```script.cpp``` you have to change login credentials and the beginning 
 
 ## Credits:
 This is a project I made as part of and exam for my university ([Universita'Degli Studi di Padova](https://www.unipd.it/en/)) for the Databases course. Part of the ```script.cpp``` is made by them.
+
+Raul Seganfreddo - Nicholas Moretto
